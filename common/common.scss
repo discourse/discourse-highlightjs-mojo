@@ -1,0 +1,14 @@
+pre.lang-mojo code {
+  background-color: inherit;
+  padding: 0;
+  font-weight: normal;
+}
+
+.hljs.language-mojo {
+  .hljs-invalid.mojo_ {
+    color: #f44747;
+  }
+  .hljs-comment.mojo_ {
+    color: #77b06b;
+  }
+}
