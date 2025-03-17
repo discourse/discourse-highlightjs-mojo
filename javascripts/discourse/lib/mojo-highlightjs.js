@@ -5,7 +5,7 @@ Website: https://www.modular.com/mojo
 Category: common
 */
 
-/* eslint-disable */
+
 export default function(hljs) {
   const regex = hljs.regex;
   const IDENT_RE = /[\p{XID_Start}_]\p{XID_Continue}*/u;
