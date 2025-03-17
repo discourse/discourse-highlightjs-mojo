@@ -1,4 +1,3 @@
-import $ from "jquery";
 import { withPluginApi } from "discourse/lib/plugin-api";
 import mojo from "../lib/mojo-highlightjs";
 
